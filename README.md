@@ -1,6 +1,11 @@
 # KinSei
 
 KinSeiは、SES向けの勤怠管理&請求書発行を行うWebアプリケーションです。
+## 画面イメージ
+<img width="20%" alt="sample1" src="https://github.com/user-attachments/assets/2f77c6fe-b21d-4775-b437-94f371936e12" />
+<img width="30%" alt="sample2" src="https://github.com/user-attachments/assets/2d6cf2c6-b852-4a31-a100-89880f082ff8" />
+<img width="30%" alt="sample3" src="https://github.com/user-attachments/assets/8a68ecb7-1fd0-4bbf-a44e-e901e4de5210" />
+
 
 ## 主な機能（実装済）
 
